@@ -1,0 +1,39 @@
+Inhalt Pflichtenheft
+
+Einleitung
+Organisatiorischer Teil
+	Projektorganisation
+		Projektverantwortliche
+		Auftraggeber
+		Teammitglieder
+		Organigramm
+	Planung
+		Terminplan (Meilensteine)
+		Projektstrukturplan/Arbeitspakete
+	Budget
+		Personalaufwand
+		Material und andere Aufwände
+	Kommunikationskonzept (KIS)
+	Risiko-Analyse
+	Projektvereinbarung
+
+Fachlicher Teil
+	Übersicht
+		Ausgangslage
+		Projektziele
+		Lieferobjekte
+		(Rahmenbedingungen)
+	Theoretische Grundlagen
+		Mathe und ET Grundlagen
+	Softwarekonzept
+		GUI 
+		Softwarestruktur
+		Beschreibung Programablauf
+	Testkonzept
+		Gesamtsystem
+		Teilsysteme
+		...
+	Wirtschaftlichkeit
+Schlussfolgerung
+Verzeichnisse
+		
