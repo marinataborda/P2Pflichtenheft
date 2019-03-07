@@ -1,4 +1,4 @@
-Inhalt Pflichtenheft
+﻿Inhalt Pflichtenheft
 
 Einleitung
 Organisatiorischer Teil
@@ -36,4 +36,5 @@ Fachlicher Teil
 	Wirtschaftlichkeit
 Schlussfolgerung
 Verzeichnisse
+Testende
 		
