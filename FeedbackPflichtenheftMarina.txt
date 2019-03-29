@@ -1,0 +1,13 @@
+Feedback Pflichtenheft
+
+Org: 	- technische Meilensteine
+	- RM auch technische Risiken
+
+Fach: 	- Lieferobjekte (nur technische)
+	- Ziele SMART formulieren und mit Software verknüpfen
+	- Th. Gl. : Wegstreichen, nur Methode, Permeabilität, Vereinfachung CM/DM (ganz einfach) -> Visio
+
+
+	- SW- Beschreibung: Top Down, Modelaspect
+
+Allgemein: Abb. und Tab. Verzeichnis weg, IEEE anpassen, Abbildungen mit Text verknüpfen
